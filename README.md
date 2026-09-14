@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/DEVPRIMIS/Squichy-Free">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=2800&pause=1000&color=2F7CFF&center=true&vCenter=true&width=650&lines=Squichy+Free;By+DsPrimis" alt="Squichy Free - By DsPrimis">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=2800&pause=1000&color=2F7CFF&center=true&vCenter=true&width=650&lines=vigilant+system;By+Nostoc" alt="VIGILANT-SYSTEM - By Nostoc">
 </a>
 
 <p>
@@ -40,9 +40,9 @@
 
 ---
 
-## ✦ About Squichy Free
+## ✦ About  VIGILANT-SYSTEM 
 
-**Squichy Free** is a free WhatsApp bug bot project created by **DsPrimis**.
+**VIGILANT-SYSTEM** is a free WhatsApp bug bot project created by **Nostoc**.
 
 The goal is simple: provide a starting point that anyone can download, customize, and use to create their **own WhatsApp bug bot**.
 
@@ -94,17 +94,17 @@ npm start
 
 ---
 
-## 💙 Why Squichy Free?
+## 💙 Why  VIGILANT-SYSTEM?
 
-Squichy Free is made to be accessible.
+ VIGILANT-SYSTEM is made to be accessible.
 
 You don't need to start everything from zero. The project gives you a base that you can study and transform into your own bot.
 
-Whether you want to experiment, learn JavaScript/Node.js, customize a WhatsApp bot, or create your own project, **Squichy Free** is designed to give you a head start.
+Whether you want to experiment, learn JavaScript/Node.js, customize a WhatsApp bot, or create your own project, ** VIGILANT-SYSTEM** is designed to give you a head start.
 
 ---
 
-## 🌐 Connect With DsPrimis
+## 🌐 Connect With Nostoc
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Whether you want to experiment, learn JavaScript/Node.js, customize a WhatsApp b
 
 ## ⭐ Support The Project
 
-If Squichy Free helped you or you like the project:
+If  vigilant-system helped you or you like the project:
 
 - ⭐ Star the repository
 - 🍴 Fork it
@@ -139,7 +139,7 @@ Every star and fork helps the project reach more people.
 
 ## ⚠️ Disclaimer
 
-Squichy Free is provided as a free development project for educational, experimental, and customization purposes.
+ VIGILANT-SYSTEM is provided as a free development project for educational, experimental, and customization purposes.
 
 You are responsible for how you modify and use the project. Always respect WhatsApp's terms of service, applicable laws, and the privacy of other users.
 
@@ -147,13 +147,13 @@ You are responsible for how you modify and use the project. Always respect Whats
 
 <div align="center">
 
-### Squichy Free
+###  VIGILANT-SYSTEM 
 
 <em>Built to be downloaded. Made to be customized.</em>
 
 <br><br>
 
-<img src="https://files.catbox.moe/rg113k.jpg" alt="Squichy Free" width="90%" style="max-width:700px;border-radius:16px;">
+<img src="https://files.catbox.moe/rg113k.jpg" alt=" VIGILANT-SYSTEM" width="90%" style="max-width:700px;border-radius:16px;">
 
 <br><br>
 
@@ -163,6 +163,6 @@ You are responsible for how you modify and use the project. Always respect Whats
 
 <br><br>
 
-<sub>© DsPrimis — Squichy Free</sub>
+<sub>© Nostoc —  Free</sub>
 
 </div>
