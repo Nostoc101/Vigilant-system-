@@ -158,7 +158,8 @@ You are responsible for how you modify and use the project. Always respect Whats
 <br><br>
 
 <a href="https://github.com/DEVPRIMIS/Squichy-Free">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2800&pause=1000&color=2F7CFF&center=true&vCenter=true&width=500&lines=Squichy+Free;By+DsPrimis" alt="Squichy Free">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2800&pause=1000&color=2F7CFF&center=true&vCenter=true&width=500&lines=vigilant
+    +system;By+Nostoc" alt="VIGILANT-SYSTEM">
 </a>
 
 <br><br>
