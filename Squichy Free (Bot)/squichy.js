@@ -288,7 +288,7 @@ case "repo": {
 > ║┃➳ *\`NUMBER\`* : 2348142334779
 > ║┃
 > ║┃➳ *\`OUR CHANEL\`*
-> ║┃╰─ *httpS://whatSapp.com/channel/0029Vb92SSa2Jl8JCFFLyP22*
+> ║┃╰─ *https://whatsapp.com/channel/0029Vb92SSa2Jl8JCFFLyP22*
 > ║┃
 > ║┃➳ *\`OUR GROUP\`*
 > ║┃╰─ *httpS://chat.whatSapp.com/HaXZgZ7rLS1J5K8qPfBf8J*
