@@ -291,7 +291,7 @@ case "repo": {
 > ║┃╰─ *https://whatsapp.com/channel/0029Vb92SSa2Jl8JCFFLyP22*
 > ║┃
 > ║┃➳ *\`OUR GROUP\`*
-> ║┃╰─ *httpS://chat.whatSapp.com/HaXZgZ7rLS1J5K8qPfBf8J*
+> ║┃╰─ *https://chat.whatsapp.com/CNlzzFlQ8W84MtIVwtzLVh*
 > ║╰────•
 > ╚════─── • ───══╝
 `
