@@ -279,12 +279,19 @@ case "repo": {
     await prim.sendMessage(m.chat, { react: { text: '🌐', key: m.key } })
 
     const txt = `
+
 > ╔════─── • ───══╗
 > ║╭────•
-> ║┃───⎝⎝✧ *vigilant-system* ✧⎠⎠
+> ║┃───⎝✧ *VIGILANT-SYSTEM* ✧⎠
 > ║┃
-> ║┃➳ *\`𝙱𝙾𝚃 𝙻𝙸𝙽𝙺\`*
-> ║┃╰─ *https://free-bot-beta.vercel.app*
+> ║┃➳ *\`OWNER\`* : NOSTOC
+> ║┃➳ *\`NUMBER\`* : 2348142334779
+> ║┃
+> ║┃➳ *\`OUR CHANEL\`*
+> ║┃╰─ *httpS://whatSapp.com/channel/0029Vb92SSa2Jl8JCFFLyP22*
+> ║┃
+> ║┃➳ *\`OUR GROUP\`*
+> ║┃╰─ *httpS://chat.whatSapp.com/HaXZgZ7rLS1J5K8qPfBf8J*
 > ║╰────•
 > ╚════─── • ───══╝
 `
