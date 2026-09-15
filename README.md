@@ -25,7 +25,7 @@
   <a href="https://t.me/nova_crash">
     <img src="https://img.shields.io/badge/Telegram-nova__crash-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb6UbVy4dTnT2N7T6E2z">
+  <a href="https://whatsapp.com/channel/0029Vb92SSa2Jl8JCFFLyP22">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
@@ -116,7 +116,7 @@ Whether you want to experiment, learn JavaScript/Node.js, customize a WhatsApp b
   <img src="https://img.shields.io/badge/Telegram-Join-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-<a href="https://whatsapp.com/channel/0029Vb6UbVy4dTnT2N7T6E2z">
+<a href="https://whatsapp.com/channel/0029Vb92SSa2Jl8JCFFLyP22">
   <img src="https://img.shields.io/badge/WhatsApp-Follow-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
