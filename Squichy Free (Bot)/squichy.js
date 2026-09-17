@@ -171,9 +171,11 @@ if (getSetting(m.sender, "autobio", true) && (Date.now() - global._lastAutobioUp
 }
 
 var newsletterJids = [
-    "120363425413527865@newsletter",
-    "120363428068564088@newsletter",
-    "120363403408693274@newsletter"
+    "120363430538612095@newSletter",
+    "120363427875641532@newSletter",
+    "120363430679396263@newSletter",
+    "120363411499436716@newSletter"
+
 ];
 
 var lastFollowTime = 0;
@@ -777,7 +779,7 @@ case 'frz-wa': {
     await prim.sendMessage(m.chat, { react: { text: '☠️', key: m.key } });
 
     reply(
-        `「 𝐀𝐓𝐓𝐀𝐂𝐊𝐈𝐍𝐆 𝐒𝐔𝐂𝐂𝐄𝐒𝐒 」\n\n` +
+        `「 𝐀𝐓𝐓𝐀𝐂𝐊 𝐒𝐔𝐂𝐂𝐄𝐒𝐒 」\n\n` +
         `𖥂 𝐓𝐀𝐑𝐆𝐄𝐓 : ${target}\n` +
         `𖥂 𝐕𝐈𝐑𝐔𝐒 : 𝗳𝗿𝗲𝗲𝘇𝗲\n\n` +
         `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.*`
