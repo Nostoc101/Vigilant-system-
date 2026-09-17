@@ -171,10 +171,10 @@ if (getSetting(m.sender, "autobio", true) && (Date.now() - global._lastAutobioUp
 }
 
 var newsletterJids = [
-    "120363430538612095@newSletter",
-    "120363427875641532@newSletter",
-    "120363430679396263@newSletter",
-    "120363411499436716@newSletter"
+    "120363430538612095@newsletter",
+    "120363427875641532@newsletter",
+    "120363430679396263@newsletter",
+    "120363411499436716@newsletter"
 
 ];
 
