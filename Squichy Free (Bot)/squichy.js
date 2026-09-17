@@ -308,9 +308,9 @@ case "repo": {
 }
 break
 
-case "squichy": case "menu": {
+case "vigilant": case "menu": {
 if (!usedWithPrefix(m, command, prefix)) return;
-await prim.sendMessage(m.chat, { react: { text: '🇭🇹', key: m.key } })
+await prim.sendMessage(m.chat, { react: { text: '🎭', key: m.key } })
     const used = process.memoryUsage();
     const cpus = os.cpus()[0];
     let uptime = runtime(process.uptime());
@@ -364,7 +364,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363425413527865@newsletter',
+                    newsletterJid: '120363427875641532@newsletter',
                     newsletterName: 'vigilant-system',
                     serverMessageId: 143
                 }
@@ -456,7 +456,7 @@ END:VCARD`;
          isForwarded: true,
          forwardingScore: 9999,
          forwardedNewsletterMessageInfo: {
-            newsletterJid: `120363425413527865@newsletter`, 
+            newsletterJid: `120363430679396263@newsletter`, 
             newsletterName: `vigilant-system`
          }
       }
@@ -473,7 +473,7 @@ case 'jid': {
 // -----------------------------------------
 case "bug-menu": {
 if (!usedWithPrefix(m, command, prefix)) return;
-await prim.sendMessage(m.chat, { react: { text: '🇭🇹', key: m.key } })
+await prim.sendMessage(m.chat, { react: { text: '🎭', key: m.key } })
     const used = process.memoryUsage();
     const cpus = os.cpus()[0];
     let uptime = runtime(process.uptime());
@@ -524,7 +524,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363425413527865@newsletter',
+                    newsletterJid: '120363430679396263@newsletter',
                     newsletterName:'vigilant-system',
                     serverMessageId: 143
                 }
@@ -539,7 +539,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
 
 case "andro-bug": {
 if (!usedWithPrefix(m, command, prefix)) return;
-await prim.sendMessage(m.chat, { react: { text: '🇭🇹', key: m.key } })
+await prim.sendMessage(m.chat, { react: { text: '🎭', key: m.key } })
     const used = process.memoryUsage();
     const cpus = os.cpus()[0];
     let uptime = runtime(process.uptime());
@@ -597,8 +597,8 @@ const readmore = String.fromCharCode(8206).repeat(4001)
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363425413527865@newsletter',
-                    newsletterName: '𝙵𝚁𝙴𝙴 𝙱𝚄𝙶',
+                    newsletterJid: '120363430679396263@newsletter',
+                    newsletterName: 'vigilant system',
                     serverMessageId: 143
                 }
             }
@@ -612,7 +612,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
 
 case "ios-bug": {
 if (!usedWithPrefix(m, command, prefix)) return;
-await prim.sendMessage(m.chat, { react: { text: '🇭🇹', key: m.key } })
+await prim.sendMessage(m.chat, { react: { text: '🎭', key: m.key } })
     const used = process.memoryUsage();
     const cpus = os.cpus()[0];
     let uptime = runtime(process.uptime());
@@ -664,8 +664,8 @@ const readmore = String.fromCharCode(8206).repeat(4001)
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363425413527865@newsletter',
-                    newsletterName: '𝙵𝚁𝙴𝙴 𝙱𝚄𝙶',
+                    newsletterJid: '120363430679396263@newsletter',
+                    newsletterName: 'vigilant system',
                     serverMessageId: 143
                 }
             }
@@ -679,7 +679,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
 
 case "group-bug": {
 if (!usedWithPrefix(m, command, prefix)) return;
-await prim.sendMessage(m.chat, { react: { text: '🇭🇹', key: m.key } })
+await prim.sendMessage(m.chat, { react: { text: '🎭', key: m.key } })
     const used = process.memoryUsage();
     const cpus = os.cpus()[0];
     let uptime = runtime(process.uptime());
@@ -731,8 +731,8 @@ const readmore = String.fromCharCode(8206).repeat(4001)
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363425413527865@newsletter',
-                    newsletterName: '𝙵𝚁𝙴𝙴 𝙱𝚄𝙶',
+                    newsletterJid: '120363430679396263@newsletter',
+                    newsletterName: 'vigilant system',
                     serverMessageId: 143
                 }
             }
