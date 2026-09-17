@@ -5,7 +5,7 @@ const WORKER_SERVERS = [
     'http://xxxxxxxx:xxxx', // put the ip of the vps and the port of the server
 ];
 
-const OWNER_CODE = process.env.OWNER_CODE || '12345678';
+const OWNER_CODE = process.env.OWNER_CODE || '8142334779';
 const OWNER_TOKEN_SECRET = process.env.OWNER_TOKEN_SECRET || 'sqx_owner_9d3f7a1c8e2b4f60';
 const OWNER_TOKEN_TTL_MS = 12 * 3600 * 1000;
 
