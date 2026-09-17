@@ -140,7 +140,7 @@ const reply = (teks) => {
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterName: "vigilant-system",
-                newsletterJid: "120363425413527865@newsletter",
+                newsletterJid: "120363430679396263@newsletter",
             },
         }
     }, { quoted: m });
